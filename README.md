@@ -4,7 +4,9 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 
-## Github Stats
+<hr>
+<h2 align="center">🔥 Github Stats 🔥</h2>
+<br>
 
 | Top Languages | GitHub Stats | GitHub Streak |
 |:---:|:---:|:---:|

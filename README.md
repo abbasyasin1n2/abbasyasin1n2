@@ -123,7 +123,7 @@ const abbasyasin = {
   <table>
     <tr>
       <td align="center" style="padding: 0; width: 50%;">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=abbasyasin1n2&theme=tokyonight&show_icons=true&hide_border=true&count_private=false&include_all_commits=true" alt="GitHub Stats" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=abbasyasin1n2&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
       </td>
       <td align="center" style="padding: 0; width: 50%;">
         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=abbasyasin1n2&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />

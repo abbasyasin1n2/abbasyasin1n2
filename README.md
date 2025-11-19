@@ -68,22 +68,44 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abbasyasin1n2&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=abbasyasin1n2&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 0; width: 50%;">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=abbasyasin1n2&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      </td>
+      <td align="center" style="padding: 0; width: 50%;">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=abbasyasin1n2&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasyasin1n2&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 0;">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasyasin1n2&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
 <h2 align="center">📊 Contribution Graph 📊</h2>
 <br>
 
-<p align="center">
-  <a href="https://github.com/abbasyasin1n2">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abbasyasin1n2&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 0;">
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abbasyasin1n2&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Abbas%20Yasin's%20Contribution%20Graph" alt="Contribution Graph" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>

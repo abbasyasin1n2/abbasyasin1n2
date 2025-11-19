@@ -109,3 +109,12 @@
 </div>
 
 <br>
+
+<h2 align="center">🐍 Watch the Snake Eat My Contributions! 🐍</h2>
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abbasyasin1n2/abbasyasin1n2/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br>

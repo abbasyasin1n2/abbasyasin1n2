@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+
 ## Github Stats
 
 | Top Languages | GitHub Stats | GitHub Streak |

@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- ## Github Stats
+## Github Stats
 
 | Top Languages | GitHub Stats | GitHub Streak |
 |:---:|:---:|:---:|

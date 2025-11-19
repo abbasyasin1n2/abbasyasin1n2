@@ -3,16 +3,54 @@
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,html,css,redux,python,django,flask,cpp" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,git,github,docker,vscode,postman,tensorflow,pytorch" />
-  </a>
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>💻 Frontend Development</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,html,css,tailwind&perline=4" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>⚙️ Backend Development</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,python,django,flask,cpp,express&perline=3" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🗄️ Databases</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&perline=4" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>☁️ Cloud & DevOps</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=aws,docker,git,github,nginx,linux&perline=3" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>🤖 AI/ML & Data Science</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv&perline=5" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>🛠️ Tools & Others</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm,yarn,webpack,babel&perline=7" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <br>
 
 <hr>

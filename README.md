@@ -1,7 +1,19 @@
-## Hi there 👋
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=abbasyasin1n2&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abbasyasin1n2&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="./banner/github-header-banner.png" alt="Banner" width="100%" />
+</p>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+There!+%F0%9F%91%8B;I'm+Abbas+Yasin;Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%9A%80;Nice+to+Meet+You!+%F0%9F%98%84" alt="Typing SVG" />
+  </a>
+</h1>
+
+<p align="center">
+  <em>🎯 Passionate about building amazing web applications and exploring the world of AI/ML 🌟</em>
 </p>
 
 <hr>

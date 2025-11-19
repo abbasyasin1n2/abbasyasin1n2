@@ -3,6 +3,17 @@
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,html,css,redux,python,django,flask,cpp" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,git,github,docker,vscode,postman,tensorflow,pytorch" />
+  </a>
+</p>
+<br>
 
 <hr>
 

@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abbasyasin1n2&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
@@ -64,6 +68,22 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-| Top Languages | GitHub Stats | GitHub Streak |
-|:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abbasyasin1n2&theme=outrun&show_icons=true&hide_border=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abbasyasin1n2&theme=highcontrast&show_icons=true&hide_border=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abbasyasin1n2&theme=midnight-purple&hide_border=true) |
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abbasyasin1n2&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=abbasyasin1n2&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasyasin1n2&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
+<br>
+
+<h2 align="center">📊 Contribution Graph 📊</h2>
+<br>
+
+<p align="center">
+  <a href="https://github.com/abbasyasin1n2">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abbasyasin1n2&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
+  </a>
+</p>

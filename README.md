@@ -5,7 +5,8 @@
 <br>
 
 <hr>
-<h2 align="center">🔥 Github Stats 🔥</h2>
+
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
 | Top Languages | GitHub Stats | GitHub Streak |

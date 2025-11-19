@@ -114,7 +114,11 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abbasyasin1n2/abbasyasin1n2/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/abbasyasin1n2/abbasyasin1n2/output/github-snake-green.svg" alt="Snake animation" />
 </div>
+
+<p align="center">
+  <sub>💡 <b>Tip:</b> The green squares match your actual GitHub contributions!</sub>
+</p>
 
 <br>

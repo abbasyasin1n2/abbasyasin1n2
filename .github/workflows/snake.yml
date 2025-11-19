@@ -33,10 +33,11 @@ jobs:
           #  - palette: A preset of color, one of [github, github-dark, github-light]
           #  - color_snake: Color of the snake
           #  - color_dots: Comma separated list of dots color (exactly 5 colors expected)
+          #    First color = 0 contributions, then low to high contributions
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake.svg?palette=github-light&color_snake=#7c3aed
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#7c3aed
+            dist/github-snake-green.svg?color_snake=#00c647&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
 
       # Push the generated content to the output branch
       - name: Push github-contribution-grid-snake.svg to output branch

@@ -123,10 +123,10 @@ const abbasyasin = {
   <table>
     <tr>
       <td align="center" style="padding: 0; width: 50%;">
-        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=abbasyasin1n2&show_icons=true&theme=radical" />
+        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=abbasyasin1n2&show_icons=true&theme=tokyonight" />
       </td>
       <td align="center" style="padding: 0; width: 50%;">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=abbasyasin1n2&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=abbasyasin1n2&theme=tokyonight" />
       </td>
     </tr>
   </table>
@@ -138,7 +138,7 @@ const abbasyasin = {
   <table>
     <tr>
       <td align="center" style="padding: 0;">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasyasin1n2&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abbasyasin1n2&layout=compact&theme=tokyonight" />
       </td>
     </tr>
   </table>
